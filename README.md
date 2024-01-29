@@ -1,6 +1,6 @@
 ## Chuck Stuffins
 
-Just a Unreal Jamstack Project of a dude name Chuck, whom is chucking stuff into a truck. 
+Just an Unreal Project for Global Game Jam of a dude name Chuck Stuffins, whom is chucking stuff into a truck. 
 
 Here is a snippet
 
